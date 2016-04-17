@@ -1,5 +1,5 @@
 {
-  "name": "@marvelapp/box-select",
+  "name": "box-select",
   "version": "1.0.0",
   "description": "Box dropin library",
   "main": "select.js",
