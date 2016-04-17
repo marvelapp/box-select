@@ -1,0 +1,19 @@
+{
+  "name": "@marvelapp/box-select",
+  "version": "1.0.0",
+  "description": "Box dropin library",
+  "main": "select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvelapp/box-select.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvelapp/box-select/issues"
+  },
+  "homepage": "https://github.com/marvelapp/box-select#readme"
+}
