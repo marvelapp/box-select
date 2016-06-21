@@ -9,7 +9,7 @@
         module.exports = factory();
     } else {
         // Browser globals (root is window)
-        root.returnExports = factory();
+        root.BoxSelect = factory();
   }
 }(this, function () {
     var BROWSER_IS_NOT_SUPPORTED = 'Your browser is not supported';
